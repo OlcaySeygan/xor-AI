@@ -1,0 +1,10 @@
+E:\Visual Studio 2017\backup\oLsey\XOR_Console\bin\Debug\XOR_Console.exe.config
+E:\Visual Studio 2017\backup\oLsey\XOR_Console\bin\Debug\XOR_Console.exe
+E:\Visual Studio 2017\backup\oLsey\XOR_Console\bin\Debug\XOR_Console.pdb
+E:\Visual Studio 2017\backup\oLsey\XOR_Console\bin\Debug\oLseyLibrary.dll
+E:\Visual Studio 2017\backup\oLsey\XOR_Console\bin\Debug\oLseyLibrary.pdb
+E:\Visual Studio 2017\backup\oLsey\XOR_Console\obj\Debug\XOR_Console.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2017\backup\oLsey\XOR_Console\obj\Debug\XOR_Console.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2017\backup\oLsey\XOR_Console\obj\Debug\XOR_Console.csproj.CopyComplete
+E:\Visual Studio 2017\backup\oLsey\XOR_Console\obj\Debug\XOR_Console.exe
+E:\Visual Studio 2017\backup\oLsey\XOR_Console\obj\Debug\XOR_Console.pdb
